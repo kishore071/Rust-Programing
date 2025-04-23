@@ -1,0 +1,1 @@
+D:\Projects\Rust-Programing-main\Generics\gen_trat_1\target\debug\gen_trat_1.exe: D:\Projects\Rust-Programing-main\Generics\gen_trat_1\src\lib.rs D:\Projects\Rust-Programing-main\Generics\gen_trat_1\src\main.rs
